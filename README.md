@@ -1,7 +1,7 @@
 # 🧠 Veritas Agent — Deepfake Detection Assistant
 
 Veritas Agent is an AI-powered forensic system that helps users verify the authenticity of videos. It provides a credibility score and natural-language explanations rather than just returning “real” or “fake.”
-“Veritas” means truth — and this system exists to verify it. 🔍✨
+“Veritas” means truth - and this system exists to verify it. 🔍✨
 
 ---
 
