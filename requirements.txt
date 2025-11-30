@@ -1,0 +1,12 @@
+streamlit
+groq
+scikit-learn
+pandas
+joblib
+numpy
+torch
+torchvision
+timm
+opencv-python
+facenet-pytorch
+Pillow
