@@ -3,4 +3,3 @@ __pycache__/
 *.pth
 *.mp4
 *.pkl
-queries.csv
